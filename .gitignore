@@ -1,0 +1,19 @@
+# Vim
+*.swp
+*.swo
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# colc
+on
+build/
+install/
+log/
+
+# Python
+*.pyc
+
+# prettier
+node_modules/
